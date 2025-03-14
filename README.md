@@ -1,8 +1,7 @@
 🧮 Calculadora Simples
 
 Uma calculadora simples e intuitiva, desenvolvida para facilitar operações 
-matemáticas básicas no dia a dia. Com design limpo e funcionalidades essenciais, 
-esta calculadora é perfeita para quem busca praticidade e eficiência. 🚀
+matemáticas básicas no dia a dia. Com design limpo e funcionalidades essenciais. 🚀
 
 🛠️ Funcionalidades
 Operações Básicas:
